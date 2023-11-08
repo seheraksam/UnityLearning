@@ -5972,3 +5972,59 @@ AssetImportParameters requested are different than current active one (requested
   custom:scripting/monoscript/fileName/GetInstallerTmpFileName.cs: fa7bda723ac795b48e38504727f44981 -> d09e0b5c7a9af5874530e17ef23025f0
   custom:scripting/monoscript/fileName/AssetModificationProcessor.cs: 84d720d70e5c24b7d0630ef5cea215ce -> a602c9e59e7db185e3a0d68d986e6fef
   custom:scripting/monoscript/fileName/IsCollabProjectMigratedResponse.cs: 4c3294c6a51e6f42161d191230692016 -> af2b76c693935deee55cfcaed2aa7568
+========================================================================
+Received Import Request.
+  Time since last request: 6991.000392 seconds.
+  path: Assets/Materials
+  artifactKey: Guid(c558d4c45734c43ef8a1e0a28ec06bd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials using Guid(c558d4c45734c43ef8a1e0a28ec06bd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '825c2531d8df075507064d0b65632eaa') in 0.010393 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 18.055575 seconds.
+  path: Assets/Materials/Cube.prefab
+  artifactKey: Guid(b835dbfe7b4194fd9b67855e3f4469f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Cube.prefab using Guid(b835dbfe7b4194fd9b67855e3f4469f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b08c31194816f55923a905c201af670') in 0.273793 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 90.696052 seconds.
+  path: Assets/Materials/Cube.prefab
+  artifactKey: Guid(b835dbfe7b4194fd9b67855e3f4469f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Cube.prefab using Guid(b835dbfe7b4194fd9b67855e3f4469f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53b3c89abd869b1ea22c8746c1b8c012') in 0.031557 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 1.786013 seconds.
+  path: Assets/Materials/Cube.prefab
+  artifactKey: Guid(b835dbfe7b4194fd9b67855e3f4469f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Cube.prefab using Guid(b835dbfe7b4194fd9b67855e3f4469f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '352720ee53b5907c30ce1c8747da0b80') in 0.005654 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 6.640655 seconds.
+  path: Assets/Materials/Cube.prefab
+  artifactKey: Guid(b835dbfe7b4194fd9b67855e3f4469f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Cube.prefab using Guid(b835dbfe7b4194fd9b67855e3f4469f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1434834d2e5c191099aa8e70fcb42269') in 0.005336 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 51.657959 seconds.
+  path: Assets/Materials/Cube.prefab
+  artifactKey: Guid(b835dbfe7b4194fd9b67855e3f4469f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Cube.prefab using Guid(b835dbfe7b4194fd9b67855e3f4469f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d113e2f7ee601e6943ecd9833a98b2a') in 0.023461 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 5921.046530 seconds.
+  path: Assets/Materials/myFirstMaterialIloveuuu.mat
+  artifactKey: Guid(ebee7d2a8305e46f38df907a9bfd9395) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/myFirstMaterialIloveuuu.mat using Guid(ebee7d2a8305e46f38df907a9bfd9395) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2a1385fb7de2c3db3f33c5050e77da9') in 0.264760 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
